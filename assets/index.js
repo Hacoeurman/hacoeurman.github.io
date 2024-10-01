@@ -20943,10 +20943,10 @@ const FL = Oy(A_),
     },
     {
       id: 4,
-      name: "@dedissoncarlos6453",
+      name: "@aldyabondi4131",
       position: "Viewer",
       src: "/assets/unnamed.jpg",
-      review: `L'art oratoire est en place bro❤ je m'abonne`,
+      review: `Je veux être un createur de contenue, et apprendre à faire le montage video avec vous, que dois-je faire???`,
     },    
     {
       id: 5,
